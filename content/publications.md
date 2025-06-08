@@ -1,0 +1,41 @@
++++
+title = "Publications"
+draft = false
+menu  = "main"
+weight = 1
++++
+
+Below are some recent publications:
+
+* [**SafeVid: Toward Safety Aligned Video Large Multimodal Models**](https://arxiv.org/abs/2505.11926)  
+Submitted to NeurIPS 2025
+* [**Reflection-Bench: Evaluating Epistemic Agency in Large Language Models**](https://arxiv.org/pdf/2410.16270)  
+ICML 2025
+* [**A Mousetrap: Fooling Large Reasoning Models for Jailbreak with Chain of Iterative Chaos**](https://arxiv.org/abs/2502.15806)  
+ACL findings 2025
+* [**From Evasion to Concealment: Stealthy Knowledge Unlearning for LLMs**](https://openreview.net/forum?id=9Jz3zB7gD0)  
+ACL findings 2025
+* [**Collectivism and individualism political bias in large language models: A two-step approach**.](https://journals.sagepub.com/doi/10.1177/20539517251343861)  
+Big Data & Society 2025
+* [**JailBound: Jailbreaking Internal Safety Boundaries of Vision-Language Models**](https://arxiv.org/abs/2505.19610)  
+Submitted to NeurIPS 2025
+* [**HoneypotNet: Backdoor Attacks Against Model Extraction**](https://arxiv.org/pdf/2501.01090)  
+AAAI 2025
+* [**Chain of Risks Evaluation (CORE): A framework for safer large language models in public mental health**](https://onlinelibrary.wiley.com/doi/10.1111/pcn.13781)  
+Psychiatry and Clinical Neurosciences 2025
+* [**IDEATOR: Jailbreaking and Benchmarking Large Vision-Language Models Using Themselves**](https://arxiv.org/abs/2411.00827)  
+Submitted to ICCV
+* **StolenLoRA: Exploring LoRA Extraction Attacks via Synthetic Data**  
+Submitted to ICCV
+* [**MLLMGuard: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models**](https://arxiv.org/abs/2406.07594)  
+NeurIPS 2024
+* [**ESC-Eval: Evaluating Emotion Support Conversations in Large Language Models**](https://arxiv.org/abs/2406.14952)  
+EMNLP 2024
+* [**Fake Alignment: Are LLMs Really Aligned Well?**](https://arxiv.org/abs/2311.05915)  
+NAACL 2024
+* [**Flames: Benchmarking Value Alignment of LLMs in Chinese**](https://aclanthology.org/2024.naacl-long.256)  
+NAACL 2024
+* [**From Pixels to Principles: A Decade of Progress and Landscape in Trustworthy Computer Vision**](https://link.springer.com/article/10.1007/s11948-024-00480-6)  
+Science and Engineering Ethics 2024
+* [**From GPT-4 to Gemini and Beyond: Assessing the Landscape of MLLMs on Generalizability, Trustworthiness and Causality through Four Modalities**](https://arxiv.org/abs/2401.15071)  
+Report 2024

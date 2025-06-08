@@ -1,0 +1,6 @@
+/public/
+/resources/
+.DS_Store
+# 如果有其他 Hugo 缓存或临时目录，也加上
+# 例如 .hugo_build.lock
+.hugo_build.lock

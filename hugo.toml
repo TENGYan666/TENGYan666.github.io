@@ -1,0 +1,88 @@
+baseURL = "https://TENGYan666.github.io/"
+languageCode = "en-us"
+title = "TENG Yan's Homepage"
+theme = "hugo-blog-awesome"
+
+[[menu.main]]
+  name   = "Publications"
+  url    = "/publications/"
+  weight = 1
+
+[Languages.en-us.params.author]
+  avatar      = "avater.jpg"
+  intro       = "TENG Yan"
+  description    = ""  # 可以留空或删掉
+  extraParagraphs = [
+    "TENG Yan is currently a research scientist of Safe & Trustworhty Center at Shanghai AI Lab. She received her PhD from Delft University of Technology. Her research focuses on AI safety, value-driven design and alignment of AI, AI governance, and interdisciplinary AI research.",
+    " ",
+    "We have opening positions for **full-time employees, interns, joint PhDs**."
+  ]
+
+
+
+
+[[params.recentResearch]]
+  title = "SafeVid: Toward Safety Aligned Video Large Multimodal Models"
+  venue = "Submitted to NeurIPS"
+  year  = 2025
+  url   = "https://arxiv.org/abs/2505.11926"
+
+
+[[params.recentResearch]]
+  title = "Reflection-Bench: Evaluating Epistemic Agency in Large Language Models"
+  venue = "ICML"
+  year  = 2025
+  url   = "https://arxiv.org/pdf/2410.16270"
+  
+[[params.recentResearch]]
+  title = "A Mousetrap: Fooling Large Reasoning Models for Jailbreak with Chain of Iterative Chaos"
+  venue = "ACL findings"
+  year  = 2025
+  url   = "https://arxiv.org/abs/2502.15806"
+  
+[[params.recentResearch]]
+  title = "From Evasion to Concealment: Stealthy Knowledge Unlearning for LLMs"
+  venue = "ACL findings"
+  year  = 2025
+  url   = "https://arxiv.org/pdf/2410.16270"
+  
+[[params.recentResearch]]
+  title = "Collectivism and individualism political bias in large language models: A two-step approach"
+  venue = "Big Data & Society"
+  year  = 2025
+  url   = "https://journals.sagepub.com/doi/10.1177/20539517251343861"
+  
+[[params.recentResearch]]
+  title = "JailBound: Jailbreaking Internal Safety Boundaries of Vision-Language Models"
+  venue = "Submitted to NeurIPS"
+  year  = 2025
+  url   = "https://arxiv.org/abs/2505.19610"
+
+[[params.recentResearch]]
+  title = "HoneypotNet: Backdoor Attacks Against Model Extraction"
+  venue = "AAAI"
+  year  = 2025
+  url   = "https://arxiv.org/pdf/2501.01090"
+
+[[params.recentResearch]]
+  title = "IDEATOR: Jailbreaking and Benchmarking Large Vision-Language Models Using Themselves"
+  venue = "Submitted to ICCV"
+  year  = 2025
+  url   = "https://arxiv.org/abs/2411.00827"
+
+[[params.recentResearch]]
+  title = "Chain of Risks Evaluation (CORE): A framework for safer large language models in public mental health"
+  venue = "Psychiatry and Clinical Neurosciences"
+  year  = 2025
+  url   = "https://onlinelibrary.wiley.com/doi/10.1111/pcn.13781"
+
+
+# contact
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/AI45Lab"
+
+[[params.socialIcons]]
+name = "email"
+url = "tengyan@pjlab.org.cn"
+

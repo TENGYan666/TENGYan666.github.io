@@ -1,0 +1,42 @@
+{{ $avatar_img := .Site.Params.author.avatar }}
+{{ $avatar_img_alt := .Site.Params.author.intro }}
+{{ $image := resources.Get $avatar_img }}
+<div class="author flex items-start space-x-4">
+  {{ with $image }}
+    {{ if eq .MediaType.SubType "svg" }}
+      <svg width="70" height="70" xmlns="http://www.w3.org/2000/svg">
+        <image width="70" height="70" href="{{ .RelPermalink }}" />
+      </svg>
+    {{ else }}
+      {{ $i1 := .Fill "70x70 center webp" }}
+      {{ $i2 := .Fill "140x140 center webp" }}
+      {{ $i3 := .Fill "210x210 center webp" }}
+      <img
+        class="author-avatar rounded-full"
+        src="{{ $i1.RelPermalink }}"
+        srcset="{{ $i2.RelPermalink }} 2x, {{ $i3.RelPermalink }} 3x"
+        alt="{{ $avatar_img_alt }}"
+        width="{{ $i1.Width }}"
+        height="{{ $i1.Height }}" />
+    {{ end }}
+  {{ end }}
+
+  <div class="flex-1">
+    <!-- 作者名保持居中 -->
+    <h2 class="text-2xl font-bold mb-4 text-center">
+      {{ .Site.Params.author.intro }}
+    </h2>
+
+    <!-- 如果有简短描述，则左对齐显示 -->
+    {{ with .Site.Params.author.description }}
+      <p style="text-align:left; margin-bottom:1rem;">{{ . }}</p>
+    {{ end }}
+
+    <!-- 将 extraParagraphs 用两行分隔符拼接，再 Markdown 渲染，确保换行、段落、加粗、链接等生效 -->
+    {{ with .Site.Params.author.extraParagraphs }}
+      <div class="extra-paragraphs" style="text-align:left;">
+        {{ delimit . "\n\n" | markdownify }}
+      </div>
+    {{ end }}
+  </div>
+</div>
