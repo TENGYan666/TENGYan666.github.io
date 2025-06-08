@@ -11,7 +11,7 @@ theme = "hugo-blog-awesome"
 [Languages.en-us.params.author]
   avatar      = "avater.jpg"
   intro       = "TENG Yan"
-  description    = ""  # 可以留空或删掉
+  description    = "Shanghai Artificiall Intelligence Laboratory"  # 可以留空或删掉
   extraParagraphs = [
     "TENG Yan is currently a research scientist of Safe & Trustworhty Center at Shanghai AI Lab. She received her PhD from Delft University of Technology. Her research focuses on AI safety, value-driven design and alignment of AI, AI governance, and interdisciplinary AI research.",
     " ",

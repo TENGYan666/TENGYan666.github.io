@@ -29,7 +29,7 @@
 
     <!-- 如果有简短描述，则左对齐显示 -->
     {{ with .Site.Params.author.description }}
-      <p style="text-align:left; margin-bottom:1rem;">{{ . }}</p>
+      <p class="text-center mb-4">{{ . }}</p>
     {{ end }}
 
     <!-- 将 extraParagraphs 用两行分隔符拼接，再 Markdown 渲染，确保换行、段落、加粗、链接等生效 -->
