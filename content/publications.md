@@ -30,9 +30,9 @@ AAAI 2025
 * [**Chain of Risks Evaluation (CORE): A framework for safer large language models in public mental health**](https://onlinelibrary.wiley.com/doi/10.1111/pcn.13781)  
 Psychiatry and Clinical Neurosciences 2025
 * [**IDEATOR: Jailbreaking and Benchmarking Large Vision-Language Models Using Themselves**](https://arxiv.org/abs/2411.00827)  
-Submitted to ICCV
+ICCV 2025
 * **StolenLoRA: Exploring LoRA Extraction Attacks via Synthetic Data**  
-Submitted to ICCV
+ICCV 2025
 * [**MLLMGuard: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models**](https://arxiv.org/abs/2406.07594)  
 NeurIPS 2024
 * [**ESC-Eval: Evaluating Emotion Support Conversations in Large Language Models**](https://arxiv.org/abs/2406.14952)  
