@@ -7,6 +7,12 @@ weight = 1
 
 Below are some recent publications:
 
+* [**Probing the robustness of large language models safety to latent Perturbations**](https://arxiv.org/pdf/2506.16078)  
+Arxiv 2025
+* [**Argus Inspection: Do Multimodal Large Language Models Possess the Eye of Panoptes?**](https://arxiv.org/abs/2506.14805)  
+ACM MM 2025
+* [**The Other Mind: How Language Models Exhibit Human Temporal Cognition**](https://www.arxiv.org/abs/2507.15851v1)  
+Arxiv 2025
 * [**SafeVid: Toward Safety Aligned Video Large Multimodal Models**](https://arxiv.org/abs/2505.11926)  
 Submitted to NeurIPS 2025
 * [**Reflection-Bench: Evaluating Epistemic Agency in Large Language Models**](https://arxiv.org/pdf/2410.16270)  
