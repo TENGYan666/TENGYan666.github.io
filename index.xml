@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>TENG Yan's Homepage</title><link>https://TENGYan666.github.io/</link><description>Recent content on TENG Yan's Homepage</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://TENGYan666.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Publications</title><link>https://TENGYan666.github.io/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://TENGYan666.github.io/publications/</guid><description>&lt;p>Below are some recent publications:&lt;/p>
 &lt;ul>
+&lt;li>&lt;a href="https://arxiv.org/pdf/2506.16078">&lt;strong>Probing the robustness of large language models safety to latent Perturbations&lt;/strong>&lt;/a>&lt;br>
+Arxiv 2025&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2506.14805">&lt;strong>Argus Inspection: Do Multimodal Large Language Models Possess the Eye of Panoptes?&lt;/strong>&lt;/a>&lt;br>
+ACM MM 2025&lt;/li>
+&lt;li>&lt;a href="https://www.arxiv.org/abs/2507.15851v1">&lt;strong>The Other Mind: How Language Models Exhibit Human Temporal Cognition&lt;/strong>&lt;/a>&lt;br>
+Arxiv 2025&lt;/li>
 &lt;li>&lt;a href="https://arxiv.org/abs/2505.11926">&lt;strong>SafeVid: Toward Safety Aligned Video Large Multimodal Models&lt;/strong>&lt;/a>&lt;br>
 Submitted to NeurIPS 2025&lt;/li>
 &lt;li>&lt;a href="https://arxiv.org/pdf/2410.16270">&lt;strong>Reflection-Bench: Evaluating Epistemic Agency in Large Language Models&lt;/strong>&lt;/a>&lt;br>
