@@ -41,6 +41,11 @@ theme = "hugo-blog-awesome"
   year  = 2025
 
 [[params.recentResearch]]
+  title = "A2RM: Adversarial-Augmented Reward Model"
+  venue = "Submitted to ICLR"
+  year  = 2025
+
+[[params.recentResearch]]
   title = "Argus Inspection: Do Multimodal Large Language Models Possess the Eye of Panoptes?"
   venue = "ACM MM"
   year  = 2025
