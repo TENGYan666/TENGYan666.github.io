@@ -13,8 +13,12 @@ Arxiv 2025
 ACM MM 2025
 * [**The Other Mind: How Language Models Exhibit Human Temporal Cognition**](https://www.arxiv.org/abs/2507.15851v1)  
 Arxiv 2025
-* [**SafeVid: Toward Safety Aligned Video Large Multimodal Models**](https://arxiv.org/abs/2505.11926)  
-Submitted to NeurIPS 2025
+* [**SafeVid: Toward Safety Aligned Video Large Multimodal Models**](https://arxiv.org/abs/2505.11926)
+NeurIPS 2025
+* [**JailBound: Jailbreaking Internal Safety Boundaries of Vision-Language Models**](https://arxiv.org/abs/2505.19610)  
+NeurIPS 2025
+* [**LinguaSafe: A Comprehensive Multilingual Safety Benchmark for Large Language Models**](https://arxiv.org/html/2508.12733v1)  
+NeurIPS 2025
 * [**Reflection-Bench: Evaluating Epistemic Agency in Large Language Models**](https://arxiv.org/pdf/2410.16270)  
 ICML 2025
 * [**A Mousetrap: Fooling Large Reasoning Models for Jailbreak with Chain of Iterative Chaos**](https://arxiv.org/abs/2502.15806)  
@@ -23,8 +27,6 @@ ACL findings 2025
 ACL findings 2025
 * [**Collectivism and individualism political bias in large language models: A two-step approach**.](https://journals.sagepub.com/doi/10.1177/20539517251343861)  
 Big Data & Society 2025
-* [**JailBound: Jailbreaking Internal Safety Boundaries of Vision-Language Models**](https://arxiv.org/abs/2505.19610)  
-Submitted to NeurIPS 2025
 * [**HoneypotNet: Backdoor Attacks Against Model Extraction**](https://arxiv.org/pdf/2501.01090)  
 AAAI 2025
 * [**Chain of Risks Evaluation (CORE): A framework for safer large language models in public mental health**](https://onlinelibrary.wiley.com/doi/10.1111/pcn.13781)  
