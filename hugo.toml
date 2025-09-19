@@ -98,12 +98,6 @@ theme = "hugo-blog-awesome"
   venue = "Big Data & Society"
   year  = 2025
   url   = "https://journals.sagepub.com/doi/10.1177/20539517251343861"
-  
-[[params.recentResearch]]
-  title = "JailBound: Jailbreaking Internal Safety Boundaries of Vision-Language Models"
-  venue = "Submitted to NeurIPS"
-  year  = 2025
-  url   = "https://arxiv.org/abs/2505.19610"
 
 [[params.recentResearch]]
   title = "HoneypotNet: Backdoor Attacks Against Model Extraction"
