@@ -1,41 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>TENG Yan's Homepage</title><link>https://TENGYan666.github.io/</link><description>Recent content on TENG Yan's Homepage</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://TENGYan666.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Publications</title><link>https://TENGYan666.github.io/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://TENGYan666.github.io/publications/</guid><description>&lt;p>Below are some recent publications:&lt;/p>
-&lt;ul>
-&lt;li>&lt;a href="https://arxiv.org/pdf/2506.16078">&lt;strong>Probing the robustness of large language models safety to latent Perturbations&lt;/strong>&lt;/a>&lt;br>
-Arxiv 2025&lt;/li>
-&lt;li>&lt;a href="https://arxiv.org/abs/2506.14805">&lt;strong>Argus Inspection: Do Multimodal Large Language Models Possess the Eye of Panoptes?&lt;/strong>&lt;/a>&lt;br>
-ACM MM 2025&lt;/li>
-&lt;li>&lt;a href="https://www.arxiv.org/abs/2507.15851v1">&lt;strong>The Other Mind: How Language Models Exhibit Human Temporal Cognition&lt;/strong>&lt;/a>&lt;br>
-Arxiv 2025&lt;/li>
-&lt;li>&lt;a href="https://arxiv.org/abs/2505.11926">&lt;strong>SafeVid: Toward Safety Aligned Video Large Multimodal Models&lt;/strong>&lt;/a>&lt;br>
-Submitted to NeurIPS 2025&lt;/li>
-&lt;li>&lt;a href="https://arxiv.org/pdf/2410.16270">&lt;strong>Reflection-Bench: Evaluating Epistemic Agency in Large Language Models&lt;/strong>&lt;/a>&lt;br>
-ICML 2025&lt;/li>
-&lt;li>&lt;a href="https://arxiv.org/abs/2502.15806">&lt;strong>A Mousetrap: Fooling Large Reasoning Models for Jailbreak with Chain of Iterative Chaos&lt;/strong>&lt;/a>&lt;br>
-ACL findings 2025&lt;/li>
-&lt;li>&lt;a href="https://openreview.net/forum?id=9Jz3zB7gD0">&lt;strong>From Evasion to Concealment: Stealthy Knowledge Unlearning for LLMs&lt;/strong>&lt;/a>&lt;br>
-ACL findings 2025&lt;/li>
-&lt;li>&lt;a href="https://journals.sagepub.com/doi/10.1177/20539517251343861">&lt;strong>Collectivism and individualism political bias in large language models: A two-step approach&lt;/strong>.&lt;/a>&lt;br>
-Big Data &amp;amp; Society 2025&lt;/li>
-&lt;li>&lt;a href="https://arxiv.org/abs/2505.19610">&lt;strong>JailBound: Jailbreaking Internal Safety Boundaries of Vision-Language Models&lt;/strong>&lt;/a>&lt;br>
-Submitted to NeurIPS 2025&lt;/li>
-&lt;li>&lt;a href="https://arxiv.org/pdf/2501.01090">&lt;strong>HoneypotNet: Backdoor Attacks Against Model Extraction&lt;/strong>&lt;/a>&lt;br>
-AAAI 2025&lt;/li>
-&lt;li>&lt;a href="https://onlinelibrary.wiley.com/doi/10.1111/pcn.13781">&lt;strong>Chain of Risks Evaluation (CORE): A framework for safer large language models in public mental health&lt;/strong>&lt;/a>&lt;br>
-Psychiatry and Clinical Neurosciences 2025&lt;/li>
-&lt;li>&lt;a href="https://arxiv.org/abs/2411.00827">&lt;strong>IDEATOR: Jailbreaking and Benchmarking Large Vision-Language Models Using Themselves&lt;/strong>&lt;/a>&lt;br>
-ICCV 2025&lt;/li>
-&lt;li>&lt;strong>StolenLoRA: Exploring LoRA Extraction Attacks via Synthetic Data&lt;/strong>&lt;br>
-ICCV 2025&lt;/li>
-&lt;li>&lt;a href="https://arxiv.org/abs/2406.07594">&lt;strong>MLLMGuard: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models&lt;/strong>&lt;/a>&lt;br>
-NeurIPS 2024&lt;/li>
-&lt;li>&lt;a href="https://arxiv.org/abs/2406.14952">&lt;strong>ESC-Eval: Evaluating Emotion Support Conversations in Large Language Models&lt;/strong>&lt;/a>&lt;br>
-EMNLP 2024&lt;/li>
-&lt;li>&lt;a href="https://arxiv.org/abs/2311.05915">&lt;strong>Fake Alignment: Are LLMs Really Aligned Well?&lt;/strong>&lt;/a>&lt;br>
-NAACL 2024&lt;/li>
-&lt;li>&lt;a href="https://aclanthology.org/2024.naacl-long.256">&lt;strong>Flames: Benchmarking Value Alignment of LLMs in Chinese&lt;/strong>&lt;/a>&lt;br>
-NAACL 2024&lt;/li>
-&lt;li>&lt;a href="https://link.springer.com/article/10.1007/s11948-024-00480-6">&lt;strong>From Pixels to Principles: A Decade of Progress and Landscape in Trustworthy Computer Vision&lt;/strong>&lt;/a>&lt;br>
-Science and Engineering Ethics 2024&lt;/li>
-&lt;li>&lt;a href="https://arxiv.org/abs/2401.15071">&lt;strong>From GPT-4 to Gemini and Beyond: Assessing the Landscape of MLLMs on Generalizability, Trustworthiness and Causality through Four Modalities&lt;/strong>&lt;/a>&lt;br>
-Report 2024&lt;/li>
-&lt;/ul></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>TENG Yan's Homepage</title><link>https://TENGYan666.github.io/</link><description>Recent content on TENG Yan's Homepage</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://TENGYan666.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Publications</title><link>https://TENGYan666.github.io/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://TENGYan666.github.io/publications/</guid><description>&lt;p&gt;Below are some recent publications:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://arxiv.org/pdf/2506.16078"&gt;&lt;strong&gt;Probing the robustness of large language models safety to latent Perturbations&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+Arxiv 2025&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://arxiv.org/abs/2506.14805"&gt;&lt;strong&gt;Argus Inspection: Do Multimodal Large Language Models Possess the Eye of Panoptes?&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+ACM MM 2025&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.arxiv.org/abs/2507.15851v1"&gt;&lt;strong&gt;The Other Mind: How Language Models Exhibit Human Temporal Cognition&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+Arxiv 2025&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://arxiv.org/abs/2505.11926"&gt;&lt;strong&gt;SafeVid: Toward Safety Aligned Video Large Multimodal Models&lt;/strong&gt;&lt;/a&gt;
+NeurIPS 2025&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://arxiv.org/abs/2505.19610"&gt;&lt;strong&gt;JailBound: Jailbreaking Internal Safety Boundaries of Vision-Language Models&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+NeurIPS 2025&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://arxiv.org/html/2508.12733v1"&gt;&lt;strong&gt;LinguaSafe: A Comprehensive Multilingual Safety Benchmark for Large Language Models&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+NeurIPS 2025&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://arxiv.org/pdf/2410.16270"&gt;&lt;strong&gt;Reflection-Bench: Evaluating Epistemic Agency in Large Language Models&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+ICML 2025&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://arxiv.org/abs/2502.15806"&gt;&lt;strong&gt;A Mousetrap: Fooling Large Reasoning Models for Jailbreak with Chain of Iterative Chaos&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+ACL findings 2025&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://openreview.net/forum?id=9Jz3zB7gD0"&gt;&lt;strong&gt;From Evasion to Concealment: Stealthy Knowledge Unlearning for LLMs&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+ACL findings 2025&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://journals.sagepub.com/doi/10.1177/20539517251343861"&gt;&lt;strong&gt;Collectivism and individualism political bias in large language models: A two-step approach&lt;/strong&gt;.&lt;/a&gt;&lt;br&gt;
+Big Data &amp;amp; Society 2025&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://arxiv.org/pdf/2501.01090"&gt;&lt;strong&gt;HoneypotNet: Backdoor Attacks Against Model Extraction&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+AAAI 2025&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://onlinelibrary.wiley.com/doi/10.1111/pcn.13781"&gt;&lt;strong&gt;Chain of Risks Evaluation (CORE): A framework for safer large language models in public mental health&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+Psychiatry and Clinical Neurosciences 2025&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://arxiv.org/abs/2411.00827"&gt;&lt;strong&gt;IDEATOR: Jailbreaking and Benchmarking Large Vision-Language Models Using Themselves&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+ICCV 2025&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;StolenLoRA: Exploring LoRA Extraction Attacks via Synthetic Data&lt;/strong&gt;&lt;br&gt;
+ICCV 2025&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://arxiv.org/abs/2406.07594"&gt;&lt;strong&gt;MLLMGuard: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+NeurIPS 2024&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://arxiv.org/abs/2406.14952"&gt;&lt;strong&gt;ESC-Eval: Evaluating Emotion Support Conversations in Large Language Models&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+EMNLP 2024&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://arxiv.org/abs/2311.05915"&gt;&lt;strong&gt;Fake Alignment: Are LLMs Really Aligned Well?&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+NAACL 2024&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://aclanthology.org/2024.naacl-long.256"&gt;&lt;strong&gt;Flames: Benchmarking Value Alignment of LLMs in Chinese&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+NAACL 2024&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://link.springer.com/article/10.1007/s11948-024-00480-6"&gt;&lt;strong&gt;From Pixels to Principles: A Decade of Progress and Landscape in Trustworthy Computer Vision&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+Science and Engineering Ethics 2024&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://arxiv.org/abs/2401.15071"&gt;&lt;strong&gt;From GPT-4 to Gemini and Beyond: Assessing the Landscape of MLLMs on Generalizability, Trustworthiness and Causality through Four Modalities&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+Report 2024&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>
