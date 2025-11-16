@@ -54,9 +54,9 @@ theme = "hugo-blog-awesome"
   year  = 2024
   url   = "https://arxiv.org/abs/2311.05915"
 
-# -------- Evaluation --------
+# -------- II. Advanced Evaluation --------
 [[params.recentResearch]]
-  topic = "II. A dEvaluation"
+  topic = "II. Advanced Evaluation"
   title = "SafeEvalAgent: Toward Agentic and Self -Evolving Safety Evaluation of LLMs"
   venue = "Submitted to ICLR"
   year  = 2026
@@ -97,7 +97,7 @@ theme = "hugo-blog-awesome"
   url   = "https://arxiv.org/pdf/2410.16270"
 
 
-# -------- Attack and Defensess --------
+# -------- III. Attack and Defense --------
 [[params.recentResearch]]
   topic = ""III. Attack and Defense""
   title = "Probing the robustness of large language models safety to latent Perturbations"
