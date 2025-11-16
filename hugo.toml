@@ -19,36 +19,36 @@ theme = "hugo-blog-awesome"
   ]
 # ===================== Recent Research =====================
 
-# -------- AI Alignment --------
+# -------- I. Safety Alignment --------
 [[params.recentResearch]]
-  topic = "Alignment"
+  topic = "I. Safety Alignment"
   title = "SafeVid: Toward Safety Aligned Video Large Multimodal Models"
   venue = "NeurIPS"
   year  = 2025
   url   = "https://arxiv.org/abs/2505.11926"
 
 [[params.recentResearch]]
-  topic = "Alignment"
+  topic = "I. Safety Alignment"
   title = "A2RM: Adversarial-Augmented Reward Model"
   venue = "Submitted to ICLR"
   year  = 2026
 
 [[params.recentResearch]]
-  topic = "Alignment"
+  topic = "I. Safety Alignment"
   title = "SafeWork-R1: Coevolving Safety and Intelligence under the AI-45∘ Law"
   venue = "arxiv"
   year  = 2025
   url   = "https://arxiv.org/abs/2507.18576"
 
 [[params.recentResearch]]
-  topic = "Alignment"
+  topic = "I. Safety Alignment"
   title = "The Other Mind: How Language Models Exhibit Human Temporal Cognition"
   venue = "AAAI"
   year  = 2026
   url   = "https://www.arxiv.org/abs/2507.15851v1"
 
 [[params.recentResearch]]
-  topic = "Alignment"
+  topic = "I. Safety Alignment"
   title = "Fake Alignment: Are LLMs Really Aligned Well?"
   venue = "Naacl"
   year  = 2024
@@ -56,128 +56,128 @@ theme = "hugo-blog-awesome"
 
 # -------- Evaluation --------
 [[params.recentResearch]]
-  topic = "Evaluation"
+  topic = "II. A dEvaluation"
   title = "SafeEvalAgent: Toward Agentic and Self -Evolving Safety Evaluation of LLMs"
   venue = "Submitted to ICLR"
   year  = 2026
   url   = "https://arxiv.org/html/2509.2100v1"
 
 [[params.recentResearch]]
-  topic = "Evaluation"
+  topic = "II. Advanced Evaluation"
   title = "A Rigorous Benchmark with Multidimensional Evaluation for Deep Research Agents: From Answers to Reports"
   venue = "Submitted to ICLR"
   year  = 2026
   url   = "https://arxiv.org/pdf/2510.02190"
 
 [[params.recentResearch]]
-  topic = "Evaluation"
+  topic = "II. Advanced Evaluation"
   title = "GhostEI-Bench: Do Mobile Agent Withstand Environmental Injection in Dynamic On-Device Environments?"
   venue = "Submitted to ICLR"
   year  = 2026
 
 [[params.recentResearch]]
-  topic = "Evaluation"
+  topic = "II. Advanced Evaluation"
   title = "Argus Inspection: Do Multimodal Large Language Models Possess the Eye of Panoptes?"
   venue = "ACM MM"
   year  = 2025
   url   = "https://arxiv.org/abs/2506.14805"
 
 [[params.recentResearch]]
-  topic = "Evaluation"
+  topic = "II. Advanced Evaluation"
   title = "LinguaSafe: A Comprehensive Multilingual Safety Benchmark for Large Language Models"
   venue = "Arxiv"
   year  = 2025
   url   = "https://arxiv.org/html/2508.12733v1"
 
 [[params.recentResearch]]
-  topic = "Evaluation"
+  topic = "II. Advanced Evaluation"
   title = "Reflection-Bench: Evaluating Epistemic Agency in Large Language Models"
   venue = "ICML"
   year  = 2025
   url   = "https://arxiv.org/pdf/2410.16270"
 
 
-# -------- Threats and Defenses --------
+# -------- Attack and Defensess --------
 [[params.recentResearch]]
-  topic = "Threats and Defenses"
+  topic = ""III. Attack and Defense""
   title = "Probing the robustness of large language models safety to latent Perturbations"
   venue = "Submitted to ICLR"
   year  = 2026
   url   = "https://arxiv.org/pdf/2506.16078"
 
 [[params.recentResearch]]
-  topic = "Threats and Defenses"
+  topic = ""III. Attack and Defense""
   title = "FreezeVLA: Action-Freezing Attacks on Vision-Language-Action Models"
   venue = "Submitted to ICLR"
   year  = 2026
   url   = "https://arxiv.org/pdf/2509.19870"
 
 [[params.recentResearch]]
-  topic = "Threats and Defenses"
+  topic = ""III. Attack and Defense""
   title = "JailBound: Jailbreaking Internal Safety Boundaries of Vision-Language Models"
   venue = "NeurIPS"
   year  = 2025
   url   = "https://arxiv.org/abs/2505.19610"
 
 [[params.recentResearch]]
-  topic = "Threats and Defenses"
+  topic = ""III. Attack and Defense""
   title = "A Mousetrap: Fooling Large Reasoning Models for Jailbreak with Chain of Iterative Chaos"
   venue = "ACL findings"
   year  = 2025
   url   = "https://arxiv.org/abs/2502.15806"
 
 [[params.recentResearch]]
-  topic = "Threats and Defenses"
+  topic = ""III. Attack and Defense""
   title = "From Evasion to Concealment: Stealthy Knowledge Unlearning for LLMs"
   venue = "ACL findings"
   year  = 2025
   url   = "https://arxiv.org/pdf/2410.16270"
 
 [[params.recentResearch]]
-  topic = "Threats and Defenses"
+  topic = ""III. Attack and Defense""
   title = "HoneypotNet: Backdoor Attacks Against Model Extraction"
   venue = "AAAI"
   year  = 2025
   url   = "https://arxiv.org/pdf/2501.01090"
 
 [[params.recentResearch]]
-  topic = "Threats and Defenses"
+  topic = ""III. Attack and Defense""
   title = "StolenLoRA: Exploring LoRA Extraction Attacks via Synthetic Data"
   venue = "ICCV"
   year  = 2025
 
 [[params.recentResearch]]
-  topic = "Threats and Defenses"
+  topic = ""III. Attack and Defense""
   title = "IDEATOR: Jailbreaking and Benchmarking Large Vision-Language Models Using Themselves"
   venue = "ICCV"
   year  = 2025
   url   = "https://arxiv.org/abs/2411.00827"
 
 
-# -------- INTERDISCIPLINARY RESEARCH --------
+# -------- IV. Interdisciplinary Research --------
 [[params.recentResearch]]
-  topic = "Interdisciplinary Research"
+  topic = "IV. Interdisciplinary Research"
   title = "The Other Mind: How Language Models Exhibit Human Temporal Cognition"
   venue = "AAAI"
   year  = 2026
   url   = "https://www.arxiv.org/abs/2507.15851v1"
 
 [[params.recentResearch]]
-  topic = "Interdisciplinary Research"
+  topic = "IV. Interdisciplinary Research"
   title = "From Pixels to Principles: A Decade of Progress and Landscape in Trustworthy Computer Vision"
   venue = "Science and Engineering Ethics"
   year  = 2024
   url   = "https://link.springer.com/article/10.1007/s11948-024-00480-6"
 
 [[params.recentResearch]]
-  topic = "Interdisciplinary Research"
+  topic = "IV. Interdisciplinary Research"
   title = "Collectivism and individualism political bias in large language models: A two-step approach"
   venue = "Big Data & Society"
   year  = 2025
   url   = "https://journals.sagepub.com/doi/10.1177/20539517251343861"
 
 [[params.recentResearch]]
-  topic = "Interdisciplinary Research"
+  topic = "IV. Interdisciplinary Research"
   title = "Chain of Risks Evaluation (CORE): A framework for safer large language models in public mental health"
   venue = "Psychiatry and Clinical Neurosciences"
   year  = 2025
