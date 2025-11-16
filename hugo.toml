@@ -19,116 +19,52 @@ theme = "hugo-blog-awesome"
   ]
 
 
-[[params.recentResearch]]
-  title = "Probing the robustness of large language models safety to latent Perturbations"
-  venue = "Submitted to ICLR"
-  year  = 2026
-  url   = "https://arxiv.org/pdf/2506.16078"
+# ===================================================================
+# Research grouped by topics
+# ===================================================================
 
-[[params.recentResearch]]
-  title = "SafeEvalAgent: Toward Agentic and Self-Evolving Safety Evaluation of LLMs"
-  venue = "Submitted to ICLR"
-  year  = 2026
-  url   = "https://arxiv.org/html/2509.26100v1"
+# --- Topic 1: AI SAFETY AND ALIGNMENT ---
+[[params.researchTopics]]
+  topic = "AI SAFETY AND ALIGNMENT"
+  papers = [
+    { title = "SafeVid: Toward Safety Aligned Video Large Multimodal Models", venue = "NeurIPS", year = 2025, url = "https://arxiv.org/abs/2505.11926" },
+    { title = "A2RM: Adversarial-Augmented Reward Model", venue = "Submitted to ICLR", year = 2026 }
+  ]
 
-  [[params.recentResearch]]
-  title = "A Rigorous Benchmark with Multidimensional Evaluation for Deep Research Agents: From Answers to Reports"
-  venue = "Submitted to ICLR"
-  year  = 2026
-  url   = "https://arxiv.org/pdf/2510.02190"
-  
-[[params.recentResearch]]
-  title = "GhostEI-Bench: Do Mobile Agent Withstand Environmental Injection in Dynamic On-Device Environments?"
-  venue = "Submitted to ICLR"
-  year  = 2026
+# --- Topic 2: Adversarial Attack and Defense ---
+[[params.researchTopics]]
+  topic = "Adversarial Attack and Defense"
+  papers = [
+    { title = "Probing the robustness of large language models safety to latent Perturbations", venue = "Submitted to ICLR", year = 2026, url = "https://arxiv.org/pdf/2506.16078" },
+    { title = "FreezeVLA: Action-Freezing Attacks on Vision-Language-Action Models", venue = "Submitted to ICLR", year = 2026, url = "https://arxiv.org/pdf/2509.19870" },
+    { title = "JailBound: Jailbreaking Internal Safety Boundaries of Vision-Language Models", venue = "NeurIPS", year = 2025, url = "https://arxiv.org/abs/2505.19610" },
+    { title = "A Mousetrap: Fooling Large Reasoning Models for Jailbreak with Chain of Iterative Chaos", venue = "ACL findings", year = 2025, url = "https://arxiv.org/abs/2502.15806" },
+    { title = "From Evasion to Concealment: Stealthy Knowledge Unlearning for LLMs", venue = "ACL findings", year = 2025, url = "https://arxiv.org/pdf/2410.16270" },
+    { title = "HoneypotNet: Backdoor Attacks Against Model Extraction", venue = "AAAI", year = 2025, url = "https://arxiv.org/pdf/2501.01090" },
+    { title = "StolenLoRA: Exploring LoRA Extraction Attacks via Synthetic Data", venue = "ICCV", year = 2025 },
+    { title = "IDEATOR: Jailbreaking and Benchmarking Large Vision-Language Models Using Themselves", venue = "ICCV", year = 2025, url = "https://arxiv.org/abs/2411.00827" }
+  ]
 
-[[params.recentResearch]]
-  title = "FreezeVLA: Action-Freezing Attacks on Vision-Language-Action Models"
-  venue = "Submitted to ICLR"
-  year  = 2026
-  url   = "https://arxiv.org/pdf/2509.19870"
+# --- Topic 3: Evaluation and Benchmark ---
+[[params.researchTopics]]
+  topic = "Evaluation and Benchmark"
+  papers = [
+    { title = "SafeEvalAgent: Toward Agentic and Self -Evolving Safety Evaluation of LLMs", venue = "Submitted to ICLR", year = 2026, url = "https://arxiv.org/html/2509.2100v1" },
+    { title = "A Rigorous Benchmark with Multidimensional Evaluation for Deep Research Agents: From Answers to Reports", venue = "Submitted to ICLR", year = 2026, url = "https://arxiv.org/pdf/2510.02190" },
+    { title = "GhostEI-Bench: Do Mobile Agent Withstand Environmental Injection in Dynamic On-Device Environments?", venue = "Submitted to ICLR", year = 2026 },
+    { title = "Argus Inspection: Do Multimodal Large Language Models Possess the Eye of Panoptes?", venue = "ACM MM", year = 2025, url = "https://arxiv.org/abs/2506.14805" },
+    { title = "LinguaSafe: A Comprehensive Multilingual Safety Benchmark for Large Language Models", venue = "Arxiv", year = 2025, url = "https://arxiv.org/html/2508.12733v1" },
+    { title = "Reflection-Bench: Evaluating Epistemic Agency in Large Language Models", venue = "ICML", year = 2025, url = "https://arxiv.org/pdf/2410.16270" }
+  ]
 
-[[params.recentResearch]]
-  title = "A2RM: Adversarial-Augmented Reward Model"
-  venue = "Submitted to ICLR"
-  year  = 2026
-
-[[params.recentResearch]]
-  title = "The Other Mind: How Language Models Exhibit Human Temporal Cognition"
-  venue = "AAAI"
-  year  = 2026
-  url   = "https://www.arxiv.org/abs/2507.15851v1"
-
-[[params.recentResearch]]
-  title = "Argus Inspection: Do Multimodal Large Language Models Possess the Eye of Panoptes?"
-  venue = "ACM MM"
-  year  = 2025
-  url   = "https://arxiv.org/abs/2506.14805"
-
-[[params.recentResearch]]
-  title = "LinguaSafe: A Comprehensive Multilingual Safety Benchmark for Large Language Models"
-  venue = "Arxiv"
-  year  = 2025
-  url   = "https://arxiv.org/html/2508.12733v1"
-
-[[params.recentResearch]]
-  title = "SafeVid: Toward Safety Aligned Video Large Multimodal Models"
-  venue = "NeurIPS"
-  year  = 2025
-  url   = "https://arxiv.org/abs/2505.11926"
-
- [[params.recentResearch]]
-  title = "JailBound: Jailbreaking Internal Safety Boundaries of Vision-Language Models"
-  venue = "NeurIPS"
-  year  = 2025
-  url   = "https://arxiv.org/abs/2505.19610" 
-
-[[params.recentResearch]]
-  title = "Reflection-Bench: Evaluating Epistemic Agency in Large Language Models"
-  venue = "ICML"
-  year  = 2025
-  url   = "https://arxiv.org/pdf/2410.16270"
-  
-[[params.recentResearch]]
-  title = "A Mousetrap: Fooling Large Reasoning Models for Jailbreak with Chain of Iterative Chaos"
-  venue = "ACL findings"
-  year  = 2025
-  url   = "https://arxiv.org/abs/2502.15806"
-  
-[[params.recentResearch]]
-  title = "From Evasion to Concealment: Stealthy Knowledge Unlearning for LLMs"
-  venue = "ACL findings"
-  year  = 2025
-  url   = "https://arxiv.org/pdf/2410.16270"
-  
-[[params.recentResearch]]
-  title = "Collectivism and individualism political bias in large language models: A two-step approach"
-  venue = "Big Data & Society"
-  year  = 2025
-  url   = "https://journals.sagepub.com/doi/10.1177/20539517251343861"
-
-[[params.recentResearch]]
-  title = "HoneypotNet: Backdoor Attacks Against Model Extraction"
-  venue = "AAAI"
-  year  = 2025
-  url   = "https://arxiv.org/pdf/2501.01090"
-
-[[params.recentResearch]]
-  title = "StolenLoRA: Exploring LoRA Extraction Attacks via Synthetic Data"
-  venue = "ICCV"
-  year  = 2025
-
-[[params.recentResearch]]
-  title = "IDEATOR: Jailbreaking and Benchmarking Large Vision-Language Models Using Themselves"
-  venue = "ICCV"
-  year  = 2025
-  url   = "https://arxiv.org/abs/2411.00827"
-
-[[params.recentResearch]]
-  title = "Chain of Risks Evaluation (CORE): A framework for safer large language models in public mental health"
-  venue = "Psychiatry and Clinical Neurosciences"
-  year  = 2025
-  url   = "https://onlinelibrary.wiley.com/doi/10.1111/pcn.13781"
+# --- Topic 4: Interdisciplinary Research ---
+[[params.researchTopics]]
+  topic = "Interdisciplinary Research"
+  papers = [
+    { title = "The Other Mind: How Language Models Exhibit Human Temporal Cognition", venue = "AAAI", year = 2026, url = "https://www.arxiv.org/abs/2507.15851v1" },
+    { title = "Collectivism and individualism political bias in large language models: A two-step approach", venue = "Big Data & Society", year = 2025, url = "https://journals.sagepub.com/doi/10.1177/20539517251343861" },
+    { title = "Chain of Risks Evaluation (CORE): A framework for safer large language models in public mental health", venue = "Psychiatry and Clinical Neurosciences", year = 2025, url = "https://onlinelibrary.wiley.com/doi/10.1111/pcn.13781" }
+  ]
 
 
 # contact
