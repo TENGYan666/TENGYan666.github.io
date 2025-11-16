@@ -21,25 +21,50 @@
             {{/* —— Recent Posts 整块已删除 —— */}}
 
             <h3 class="posts-item-note">Recent Research</h3>
-            <ul class="recent-research-list">
-              {{ with .Site.Params.recentResearch }}
-                {{ range . }}
+
+            {{ with .Site.Params.recentResearch }}
+              {{/* 按 topic 升序、year 降序排序 */}}
+              {{ $items := sort . "topic" "asc" "year" "desc" }}
+              {{ $currentTopic := "" }}
+
+              <div class="recent-research">
+                {{ range $index, $item := $items }}
+                  {{ $topic := (or $item.topic "Other") }}
+
+                  {{/* 当 topic 变化时，关闭上一个 <ul>，并输出新的 topic 标题 */}}
+                  {{ if ne $topic $currentTopic }}
+                    {{ if ne $currentTopic "" }}
+                      </ul>
+                    {{ end }}
+                    <h4 class="research-topic">{{ $topic }}</h4>
+                    <ul class="recent-research-list">
+                    {{ $currentTopic = $topic }}
+                  {{ end }}
+
                   <li class="research-item">
-                    <!-- 标题，点击也可跳转 -->
                     <div class="research-title">
-                      <a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a>
+                      {{ with $item.url }}
+                        <a href=" " target="_blank" rel="noopener">{{ $item.title }}</a >
+                      {{ else }}
+                        {{ $item.title }}
+                      {{ end }}
                     </div>
-                    <!-- 会议名、年份 -->
                     <div class="research-meta">
-                      {{ .venue }}, {{ .year }}
+                      {{ $item.venue }}, {{ $item.year }}
                     </div>
                   </li>
                 {{ end }}
-              {{ else }}
+
+                {{/* 如果有至少一条记录，就补上最后一个 </ul> */}}
+                {{ if gt (len $items) 0 }}
+                  </ul>
+                {{ end }}
+              </div>
+            {{ else }}
+              <ul class="recent-research-list">
                 <li><em>No research items configured yet.</em></li>
-              {{ end }}
-            </ul>
-            
+              </ul>
+            {{ end }}
 
         </main>
     </div>
