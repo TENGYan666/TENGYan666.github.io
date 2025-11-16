@@ -26,10 +26,17 @@ theme = "hugo-blog-awesome"
   url   = "https://arxiv.org/pdf/2506.16078"
 
 [[params.recentResearch]]
-  title = "CompliAgent: Toward Agentic Safety Compliance Evaluation of Large Language Models"
+  title = "SafeEvalAgent: Toward Agentic and Self-Evolving Safety Evaluation of LLMs"
   venue = "Submitted to ICLR"
   year  = 2025
+  url   = "https://arxiv.org/html/2509.26100v1"
 
+  [[params.recentResearch]]
+  title = "A Rigorous Benchmark with Multidimensional Evaluation for Deep Research Agents: From Answers to Reports"
+  venue = "Submitted to ICLR"
+  year  = 2025
+  url   = "https://arxiv.org/pdf/2510.02190"
+  
 [[params.recentResearch]]
   title = "GhostEI-Bench: Do Mobile Agent Withstand Environmental Injection in Dynamic On-Device Environments?"
   venue = "Submitted to ICLR"
@@ -39,6 +46,7 @@ theme = "hugo-blog-awesome"
   title = "FreezeVLA: Action-Freezing Attacks on Vision-Language-Action Models"
   venue = "Submitted to ICLR"
   year  = 2025
+    url   = "https://arxiv.org/pdf/2509.19870"
 
 [[params.recentResearch]]
   title = "A2RM: Adversarial-Augmented Reward Model"
@@ -53,13 +61,13 @@ theme = "hugo-blog-awesome"
 
 [[params.recentResearch]]
   title = "LinguaSafe: A Comprehensive Multilingual Safety Benchmark for Large Language Models"
-  venue = "Submittd to AAAI"
+  venue = "Arxiv"
   year  = 2025
   url   = "https://arxiv.org/html/2508.12733v1"
 
 [[params.recentResearch]]
   title = "The Other Mind: How Language Models Exhibit Human Temporal Cognition"
-  venue = "Submitted to AAAI"
+  venue = "AAAI"
   year  = 2025
   url   = "https://www.arxiv.org/abs/2507.15851v1"
 
