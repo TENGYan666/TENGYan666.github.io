@@ -46,7 +46,7 @@ theme = "hugo-blog-awesome"
   title = "FreezeVLA: Action-Freezing Attacks on Vision-Language-Action Models"
   venue = "Submitted to ICLR"
   year  = 2025
-    url   = "https://arxiv.org/pdf/2509.19870"
+  url   = "https://arxiv.org/pdf/2509.19870"
 
 [[params.recentResearch]]
   title = "A2RM: Adversarial-Augmented Reward Model"
@@ -68,7 +68,7 @@ theme = "hugo-blog-awesome"
 [[params.recentResearch]]
   title = "The Other Mind: How Language Models Exhibit Human Temporal Cognition"
   venue = "AAAI"
-  year  = 2025
+  year  = 2026
   url   = "https://www.arxiv.org/abs/2507.15851v1"
 
 [[params.recentResearch]]
