@@ -19,26 +19,82 @@ theme = "hugo-blog-awesome"
   ]
 # ===================== Recent Research =====================
 
-# -------- AI SAFETY AND ALIGNMENT --------
+# -------- EVALUATION AND BENCHMARK --------
 [[params.recentResearch]]
-  topic = "AI Safety and Alignment"
+  topic = "Evaluation and Benchmark"
+  title = "SafeEvalAgent: Toward Agentic and Self -Evolving Safety Evaluation of LLMs"
+  venue = "Submitted to ICLR"
+  year  = 2026
+  url   = "https://arxiv.org/html/2509.2100v1"
+
+[[params.recentResearch]]
+  topic = "Evaluation and Benchmark"
+  title = "A Rigorous Benchmark with Multidimensional Evaluation for Deep Research Agents: From Answers to Reports"
+  venue = "Submitted to ICLR"
+  year  = 2026
+  url   = "https://arxiv.org/pdf/2510.02190"
+
+[[params.recentResearch]]
+  topic = "Evaluation and Benchmark"
+  title = "GhostEI-Bench: Do Mobile Agent Withstand Environmental Injection in Dynamic On-Device Environments?"
+  venue = "Submitted to ICLR"
+  year  = 2026
+
+[[params.recentResearch]]
+  topic = "Evaluation and Benchmark"
+  title = "Argus Inspection: Do Multimodal Large Language Models Possess the Eye of Panoptes?"
+  venue = "ACM MM"
+  year  = 2025
+  url   = "https://arxiv.org/abs/2506.14805"
+
+[[params.recentResearch]]
+  topic = "Evaluation and Benchmark"
+  title = "LinguaSafe: A Comprehensive Multilingual Safety Benchmark for Large Language Models"
+  venue = "Arxiv"
+  year  = 2025
+  url   = "https://arxiv.org/html/2508.12733v1"
+
+[[params.recentResearch]]
+  topic = "Evaluation and Benchmark"
+  title = "Reflection-Bench: Evaluating Epistemic Agency in Large Language Models"
+  venue = "ICML"
+  year  = 2025
+  url   = "https://arxiv.org/pdf/2410.16270"
+
+# -------- AI ALIGNMENT --------
+[[params.recentResearch]]
+  topic = "AI ALIGNMENT"
   title = "SafeVid: Toward Safety Aligned Video Large Multimodal Models"
   venue = "NeurIPS"
   year  = 2025
   url   = "https://arxiv.org/abs/2505.11926"
 
 [[params.recentResearch]]
-  topic = "AI Safety and Alignment"
+  topic = "AI ALIGNMENT"
   title = "A2RM: Adversarial-Augmented Reward Model"
   venue = "Submitted to ICLR"
   year  = 2026
 
 [[params.recentResearch]]
-  topic = "AI Safety and Alignment"
+  topic = "AI ALIGNMENT"
   title = "SafeWork-R1: Coevolving Safety and Intelligence under the AI-45∘ Law"
   venue = "arxiv"
   year  = 2026
   url   = "https://arxiv.org/abs/2507.18576"
+
+[params.recentResearch]
+  topic = "AI ALIGNMENT"
+  title = "The Other Mind: How Language Models Exhibit Human Temporal Cognition"
+  venue = "AAAI"
+  year  = 2026
+  url   = "https://www.arxiv.org/abs/2507.15851v1"
+
+[[params.recentResearch]]
+  topic = "AI ALIGNMENT"
+  title = "Fake Alignment: Are LLMs Really Aligned Well?"
+  venue = "Naacl"
+  year  = 2024
+  url   = "https://arxiv.org/abs/2311.05915"
 
 # -------- ADVERSARIAL ATTACK AND DEFENSE --------
 [[params.recentResearch]]
@@ -96,56 +152,8 @@ theme = "hugo-blog-awesome"
   year  = 2025
   url   = "https://arxiv.org/abs/2411.00827"
 
-# -------- EVALUATION AND BENCHMARK --------
-[[params.recentResearch]]
-  topic = "Evaluation and Benchmark"
-  title = "SafeEvalAgent: Toward Agentic and Self -Evolving Safety Evaluation of LLMs"
-  venue = "Submitted to ICLR"
-  year  = 2026
-  url   = "https://arxiv.org/html/2509.2100v1"
-
-[[params.recentResearch]]
-  topic = "Evaluation and Benchmark"
-  title = "A Rigorous Benchmark with Multidimensional Evaluation for Deep Research Agents: From Answers to Reports"
-  venue = "Submitted to ICLR"
-  year  = 2026
-  url   = "https://arxiv.org/pdf/2510.02190"
-
-[[params.recentResearch]]
-  topic = "Evaluation and Benchmark"
-  title = "GhostEI-Bench: Do Mobile Agent Withstand Environmental Injection in Dynamic On-Device Environments?"
-  venue = "Submitted to ICLR"
-  year  = 2026
-
-[[params.recentResearch]]
-  topic = "Evaluation and Benchmark"
-  title = "Argus Inspection: Do Multimodal Large Language Models Possess the Eye of Panoptes?"
-  venue = "ACM MM"
-  year  = 2025
-  url   = "https://arxiv.org/abs/2506.14805"
-
-[[params.recentResearch]]
-  topic = "Evaluation and Benchmark"
-  title = "LinguaSafe: A Comprehensive Multilingual Safety Benchmark for Large Language Models"
-  venue = "Arxiv"
-  year  = 2025
-  url   = "https://arxiv.org/html/2508.12733v1"
-
-[[params.recentResearch]]
-  topic = "Evaluation and Benchmark"
-  title = "Reflection-Bench: Evaluating Epistemic Agency in Large Language Models"
-  venue = "ICML"
-  year  = 2025
-  url   = "https://arxiv.org/pdf/2410.16270"
 
 # -------- INTERDISCIPLINARY RESEARCH --------
-[[params.recentResearch]]
-  topic = "Interdisciplinary Research"
-  title = "The Other Mind: How Language Models Exhibit Human Temporal Cognition"
-  venue = "AAAI"
-  year  = 2026
-  url   = "https://www.arxiv.org/abs/2507.15851v1"
-
 [[params.recentResearch]]
   topic = "Interdisciplinary Research"
   title = "Collectivism and individualism political bias in large language models: A two-step approach"
@@ -153,12 +161,20 @@ theme = "hugo-blog-awesome"
   year  = 2025
   url   = "https://journals.sagepub.com/doi/10.1177/20539517251343861"
 
+ [[params.recentResearch]]
+  topic = "Interdisciplinary Research"
+  title = "From Pixels to Principles: A Decade of Progress and Landscape in Trustworthy Computer Vision"
+  venue = "Science and Engineering Ethics 2024"
+  year  = 2024
+  url   = "https://link.springer.com/article/10.1007/s11948-024-00480-6"
+
 [[params.recentResearch]]
   topic = "Interdisciplinary Research"
   title = "Chain of Risks Evaluation (CORE): A framework for safer large language models in public mental health"
   venue = "Psychiatry and Clinical Neurosciences"
   year  = 2025
   url   = "https://onlinelibrary.wiley.com/doi/10.1111/pcn.13781"
+
 
 
 # contact
