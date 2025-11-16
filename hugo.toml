@@ -99,55 +99,55 @@ theme = "hugo-blog-awesome"
 
 # -------- III. Attack and Defense --------
 [[params.recentResearch]]
-  topic = ""III. Attack and Defense""
+  topic = "III. Attack and Defense"
   title = "Probing the robustness of large language models safety to latent Perturbations"
   venue = "Submitted to ICLR"
   year  = 2026
   url   = "https://arxiv.org/pdf/2506.16078"
 
 [[params.recentResearch]]
-  topic = ""III. Attack and Defense""
+  topic = "III. Attack and Defense"
   title = "FreezeVLA: Action-Freezing Attacks on Vision-Language-Action Models"
   venue = "Submitted to ICLR"
   year  = 2026
   url   = "https://arxiv.org/pdf/2509.19870"
 
 [[params.recentResearch]]
-  topic = ""III. Attack and Defense""
+  topic = "III. Attack and Defense"
   title = "JailBound: Jailbreaking Internal Safety Boundaries of Vision-Language Models"
   venue = "NeurIPS"
   year  = 2025
   url   = "https://arxiv.org/abs/2505.19610"
 
 [[params.recentResearch]]
-  topic = ""III. Attack and Defense""
+  topic = "III. Attack and Defense"
   title = "A Mousetrap: Fooling Large Reasoning Models for Jailbreak with Chain of Iterative Chaos"
   venue = "ACL findings"
   year  = 2025
   url   = "https://arxiv.org/abs/2502.15806"
 
 [[params.recentResearch]]
-  topic = ""III. Attack and Defense""
+  topic = "III. Attack and Defense"
   title = "From Evasion to Concealment: Stealthy Knowledge Unlearning for LLMs"
   venue = "ACL findings"
   year  = 2025
   url   = "https://arxiv.org/pdf/2410.16270"
 
 [[params.recentResearch]]
-  topic = ""III. Attack and Defense""
+  topic = "III. Attack and Defense"
   title = "HoneypotNet: Backdoor Attacks Against Model Extraction"
   venue = "AAAI"
   year  = 2025
   url   = "https://arxiv.org/pdf/2501.01090"
 
 [[params.recentResearch]]
-  topic = ""III. Attack and Defense""
+  topic = "III. Attack and Defense"
   title = "StolenLoRA: Exploring LoRA Extraction Attacks via Synthetic Data"
   venue = "ICCV"
   year  = 2025
 
 [[params.recentResearch]]
-  topic = ""III. Attack and Defense""
+  topic = "III. Attack and Defense"
   title = "IDEATOR: Jailbreaking and Benchmarking Large Vision-Language Models Using Themselves"
   venue = "ICCV"
   year  = 2025
