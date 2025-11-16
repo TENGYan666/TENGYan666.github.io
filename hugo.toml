@@ -29,6 +29,7 @@ theme = "hugo-blog-awesome"
   papers = [
     { title = "SafeVid: Toward Safety Aligned Video Large Multimodal Models", venue = "NeurIPS", year = 2025, url = "https://arxiv.org/abs/2505.11926" },
     { title = "A2RM: Adversarial-Augmented Reward Model", venue = "Submitted to ICLR", year = 2026 }
+    { title = "SafeWork-R1: Coevolving Safety and Intelligence under the AI-45∘ Law", venue = "arxiv", year = 2026, url = "https://arxiv.org/abs/2507.18576" }
   ]
 
 # --- Topic 2: Adversarial Attack and Defense ---
