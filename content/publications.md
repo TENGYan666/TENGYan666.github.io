@@ -11,14 +11,10 @@ Below are some recent publications:
 Arxiv 2025 (under review)
 * [**SafeEvalAgent: Toward Agentic and Self-Evolving Safety Evaluation of LLMs**](https://arxiv.org/html/2509.26100v1)  
 Arxiv 2025 (under review)
-* **GhostEI-Bench: Do Mobile Agent Withstand Environmental Injection in Dynamic On-Device Environments?**
-  Arxiv 2025 (under review)
 * [**A Rigorous Benchmark with Multidimensional Evaluation for Deep Research Agents: From Answers to Reports**](https://arxiv.org/pdf/2510.02190)  
 Arxiv 2025 (under review)
 * [**FreezeVLA: Action-Freezing Attacks on Vision-Language-Action Models**](https://arxiv.org/pdf/2509.19870)  
 Arxiv 2025 (under review)
-* **FA2RM: Adversarial-Augmented Reward Model**
-  Arxiv 2025 (under review)
 * [**Argus Inspection: Do Multimodal Large Language Models Possess the Eye of Panoptes?**](https://arxiv.org/abs/2506.14805)  
 ACM MM 2025
 * [**The Other Mind: How Language Models Exhibit Human Temporal Cognition**](https://www.arxiv.org/abs/2507.15851v1)  
