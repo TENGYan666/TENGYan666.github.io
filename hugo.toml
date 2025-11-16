@@ -22,36 +22,42 @@ theme = "hugo-blog-awesome"
 [[params.recentResearch]]
   title = "Probing the robustness of large language models safety to latent Perturbations"
   venue = "Submitted to ICLR"
-  year  = 2025
+  year  = 2026
   url   = "https://arxiv.org/pdf/2506.16078"
 
 [[params.recentResearch]]
   title = "SafeEvalAgent: Toward Agentic and Self-Evolving Safety Evaluation of LLMs"
   venue = "Submitted to ICLR"
-  year  = 2025
+  year  = 2026
   url   = "https://arxiv.org/html/2509.26100v1"
 
   [[params.recentResearch]]
   title = "A Rigorous Benchmark with Multidimensional Evaluation for Deep Research Agents: From Answers to Reports"
   venue = "Submitted to ICLR"
-  year  = 2025
+  year  = 2026
   url   = "https://arxiv.org/pdf/2510.02190"
   
 [[params.recentResearch]]
   title = "GhostEI-Bench: Do Mobile Agent Withstand Environmental Injection in Dynamic On-Device Environments?"
   venue = "Submitted to ICLR"
-  year  = 2025
+  year  = 2026
 
 [[params.recentResearch]]
   title = "FreezeVLA: Action-Freezing Attacks on Vision-Language-Action Models"
   venue = "Submitted to ICLR"
-  year  = 2025
+  year  = 2026
   url   = "https://arxiv.org/pdf/2509.19870"
 
 [[params.recentResearch]]
   title = "A2RM: Adversarial-Augmented Reward Model"
   venue = "Submitted to ICLR"
-  year  = 2025
+  year  = 2026
+
+[[params.recentResearch]]
+  title = "The Other Mind: How Language Models Exhibit Human Temporal Cognition"
+  venue = "AAAI"
+  year  = 2026
+  url   = "https://www.arxiv.org/abs/2507.15851v1"
 
 [[params.recentResearch]]
   title = "Argus Inspection: Do Multimodal Large Language Models Possess the Eye of Panoptes?"
@@ -64,12 +70,6 @@ theme = "hugo-blog-awesome"
   venue = "Arxiv"
   year  = 2025
   url   = "https://arxiv.org/html/2508.12733v1"
-
-[[params.recentResearch]]
-  title = "The Other Mind: How Language Models Exhibit Human Temporal Cognition"
-  venue = "AAAI"
-  year  = 2026
-  url   = "https://www.arxiv.org/abs/2507.15851v1"
 
 [[params.recentResearch]]
   title = "SafeVid: Toward Safety Aligned Video Large Multimodal Models"
