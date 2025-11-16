@@ -19,10 +19,12 @@ Arxiv 2026 (under review)
 Arxiv 2026 (under review)
 * **FA2RM: Adversarial-Augmented Reward Model**
   Arxiv 2026 (under review)
-* [**Argus Inspection: Do Multimodal Large Language Models Possess the Eye of Panoptes?**](https://arxiv.org/abs/2506.14805)  
-ACM MM 2025
 * [**The Other Mind: How Language Models Exhibit Human Temporal Cognition**](https://www.arxiv.org/abs/2507.15851v1)  
 AAAI 2026
+* [**SafeWork-R1: Coevolving Safety and Intelligence under the AI-45∘ Law**](https://arxiv.org/abs/2507.18576)  
+Arxiv 2025 
+* [**Argus Inspection: Do Multimodal Large Language Models Possess the Eye of Panoptes?**](https://arxiv.org/abs/2506.14805)  
+ACM MM 2025
 * [**SafeVid: Toward Safety Aligned Video Large Multimodal Models**](https://arxiv.org/abs/2505.11926)
 NeurIPS 2025
 * [**JailBound: Jailbreaking Internal Safety Boundaries of Vision-Language Models**](https://arxiv.org/abs/2505.19610)  
