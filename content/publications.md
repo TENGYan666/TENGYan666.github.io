@@ -7,12 +7,18 @@ weight = 1
 
 Below are some recent publications:
 
+* [**From Sparse Decisions to Dense Reasoning: A Multi-attribute Trajectory Paradigm for Multimodal Moderation**](https://arxiv.org/pdf/2602.02536)  
+Arxiv 2026
+* [**Mechanistic Origin of Moral Indifference in Language Models**](https://arxiv.org/pdf/2603.15615)  
+Arxiv 2026
+* [**OpenRT: An Open-Source Red Teaming Framework for Multimodal LLMs**](https://arxiv.org/pdf/2601.01592)  
+Arxiv 2026
 * [**Probing the robustness of large language models safety to latent Perturbations**](https://arxiv.org/pdf/2506.16078)  
 Arxiv 2026 (under review)
 * [**SafeEvalAgent: Toward Agentic and Self-Evolving Safety Evaluation of LLMs**](https://arxiv.org/html/2509.26100v1)  
+ACL findings 2026
+* [**GhostEI-Bench: Do Mobile Agents Resilience to Environmental Injection in Dynamic On-Device Environments?**](https://arxiv.org/pdf/2510.20333)  
 Arxiv 2026 (under review)
-* **GhostEI-Bench: Do Mobile Agent Withstand Environmental Injection in Dynamic On-Device Environments?**
-  Arxiv 2026 (under review)
 * [**A Rigorous Benchmark with Multidimensional Evaluation for Deep Research Agents: From Answers to Reports**](https://arxiv.org/pdf/2510.02190)  
 Arxiv 2026 (under review)
 * [**FreezeVLA: Action-Freezing Attacks on Vision-Language-Action Models**](https://arxiv.org/pdf/2509.19870)  
