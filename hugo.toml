@@ -83,7 +83,7 @@ theme = "hugo-blog-awesome"
   year  = 2026
   url   = "https://arxiv.org/html/2509.2100v1"
 
-  [[params.recentResearch]]
+[[params.recentResearch]]
   topic = "II. Advanced Evaluation"
   title = "GhostEI-Bench: Do Mobile Agents Resilience to Environmental Injection in Dynamic On-Device Environments?"
   venue = "ICLR"
