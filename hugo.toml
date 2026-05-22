@@ -22,6 +22,20 @@ theme = "hugo-blog-awesome"
 # -------- I. Safety Alignment --------
 [[params.recentResearch]]
   topic = "I. Safety Alignment"
+  title = "From Sparse Decisions to Dense Reasoning: A Multi-attribute Trajectory Paradigm for Multimodal Moderation"
+  venue = "arxiv"
+  year  = 2026
+  url   = "https://arxiv.org/pdf/2602.02536"
+
+[[params.recentResearch]]
+  topic = "I. Safety Alignment"
+  title = "Mechanistic Origin of Moral Indifference in Language Models"
+  venue = "arxiv"
+  year  = 2026
+  url   = "https://arxiv.org/pdf/2603.15615"
+
+[[params.recentResearch]]
+  topic = "I. Safety Alignment"
   title = "SafeVid: Toward Safety Aligned Video Large Multimodal Models"
   venue = "NeurIPS"
   year  = 2025
@@ -58,9 +72,16 @@ theme = "hugo-blog-awesome"
 [[params.recentResearch]]
   topic = "II. Advanced Evaluation"
   title = "SafeEvalAgent: Toward Agentic and Self -Evolving Safety Evaluation of LLMs"
-  venue = "Submitted to ICLR"
+  venue = "ACL findings"
   year  = 2026
   url   = "https://arxiv.org/html/2509.2100v1"
+
+  [[params.recentResearch]]
+  topic = "II. Advanced Evaluation"
+  title = "GhostEI-Bench: Do Mobile Agents Resilience to Environmental Injection in Dynamic On-Device Environments?"
+  venue = ""
+  year  = 2026
+  url   = "https://arxiv.org/pdf/2510.20333"
 
 [[params.recentResearch]]
   topic = "II. Advanced Evaluation"
@@ -68,12 +89,6 @@ theme = "hugo-blog-awesome"
   venue = "Submitted to ICLR"
   year  = 2026
   url   = "https://arxiv.org/pdf/2510.02190"
-
-[[params.recentResearch]]
-  topic = "II. Advanced Evaluation"
-  title = "GhostEI-Bench: Do Mobile Agent Withstand Environmental Injection in Dynamic On-Device Environments?"
-  venue = "Submitted to ICLR"
-  year  = 2026
 
 [[params.recentResearch]]
   topic = "II. Advanced Evaluation"
@@ -98,6 +113,13 @@ theme = "hugo-blog-awesome"
 
 
 # -------- III. Attack and Defense --------
+[[params.recentResearch]]
+  topic = "III. Attack and Defense"
+  title = "OpenRT: An Open-Source Red Teaming Framework for Multimodal LLMs"
+  venue = "Arxiv"
+  year  = 2026
+  url   = "https://arxiv.org/pdf/2601.01592"
+
 [[params.recentResearch]]
   topic = "III. Attack and Defense"
   title = "Probing the robustness of large language models safety to latent Perturbations"
