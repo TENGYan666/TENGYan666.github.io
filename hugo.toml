@@ -22,6 +22,13 @@ theme = "hugo-blog-awesome"
 # -------- I. Safety Alignment --------
 [[params.recentResearch]]
   topic = "I. Safety Alignment"
+  title = "Towards Context-Invariant Safety Alignment for Large Language Models"
+  venue = "ICML"
+  year  = 2026
+  url   = "https://arxiv.org/abs/2605.20994"
+
+[[params.recentResearch]]
+  topic = "I. Safety Alignment"
   title = "From Sparse Decisions to Dense Reasoning: A Multi-attribute Trajectory Paradigm for Multimodal Moderation"
   venue = "arxiv"
   year  = 2026
@@ -79,14 +86,14 @@ theme = "hugo-blog-awesome"
   [[params.recentResearch]]
   topic = "II. Advanced Evaluation"
   title = "GhostEI-Bench: Do Mobile Agents Resilience to Environmental Injection in Dynamic On-Device Environments?"
-  venue = ""
+  venue = "ICLR"
   year  = 2026
   url   = "https://arxiv.org/pdf/2510.20333"
 
 [[params.recentResearch]]
   topic = "II. Advanced Evaluation"
   title = "A Rigorous Benchmark with Multidimensional Evaluation for Deep Research Agents: From Answers to Reports"
-  venue = "Submitted to ICLR"
+  venue = "arxiv"
   year  = 2026
   url   = "https://arxiv.org/pdf/2510.02190"
 
@@ -124,6 +131,13 @@ theme = "hugo-blog-awesome"
   topic = "III. Attack and Defense"
   title = "Probing the robustness of large language models safety to latent Perturbations"
   venue = "Submitted to ICLR"
+  year  = 2026
+  url   = "https://arxiv.org/pdf/2506.16078"
+
+[[params.recentResearch]]
+  topic = "III. Attack and Defense"
+  title = "Evolve the Method, Not the Prompts: Evolutionary Synthesis of Jailbreak Attacks on LLMs"
+  venue = "arxiv"
   year  = 2026
   url   = "https://arxiv.org/pdf/2506.16078"
 

@@ -7,24 +7,28 @@ weight = 1
 
 Below are some recent publications:
 
+* [**Towards Context-Invariant Safety Alignment for Large Language Models**](https://arxiv.org/abs/2605.20994)  
+ICML 2026
 * [**From Sparse Decisions to Dense Reasoning: A Multi-attribute Trajectory Paradigm for Multimodal Moderation**](https://arxiv.org/pdf/2602.02536)  
 Arxiv 2026
 * [**Mechanistic Origin of Moral Indifference in Language Models**](https://arxiv.org/pdf/2603.15615)  
 Arxiv 2026
 * [**OpenRT: An Open-Source Red Teaming Framework for Multimodal LLMs**](https://arxiv.org/pdf/2601.01592)  
 Arxiv 2026
+* [**Evolve the Method, Not the Prompts: Evolutionary Synthesis of Jailbreak Attacks on LLMs**](https://arxiv.org/pdf/2506.16078)  
+Arxiv 2026
 * [**Probing the robustness of large language models safety to latent Perturbations**](https://arxiv.org/pdf/2506.16078)  
-Arxiv 2026 (under review)
+Arxiv 2026
 * [**SafeEvalAgent: Toward Agentic and Self-Evolving Safety Evaluation of LLMs**](https://arxiv.org/html/2509.26100v1)  
 ACL findings 2026
 * [**GhostEI-Bench: Do Mobile Agents Resilience to Environmental Injection in Dynamic On-Device Environments?**](https://arxiv.org/pdf/2510.20333)  
-Arxiv 2026 (under review)
+ICLR 2026
 * [**A Rigorous Benchmark with Multidimensional Evaluation for Deep Research Agents: From Answers to Reports**](https://arxiv.org/pdf/2510.02190)  
-Arxiv 2026 (under review)
+Arxiv 2026 
 * [**FreezeVLA: Action-Freezing Attacks on Vision-Language-Action Models**](https://arxiv.org/pdf/2509.19870)  
-Arxiv 2026 (under review)
+Arxiv 2026 
 * **FA2RM: Adversarial-Augmented Reward Model**
-  Arxiv 2026 (under review)
+  Arxiv 2026 
 * [**The Other Mind: How Language Models Exhibit Human Temporal Cognition**](https://www.arxiv.org/abs/2507.15851v1)  
 AAAI 2026
 * [**SafeWork-R1: Coevolving Safety and Intelligence under the AI-45∘ Law**](https://arxiv.org/abs/2507.18576)  
